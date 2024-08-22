@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Docker , angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayahkenawy](https://github.com/ayahkenawy)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ayahkenawy" target="blank" >GitHub</a>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ayahkenawy90](https://www.linkedin.com/in/ayahkenawy90)
+- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/ayahkenawy90" target="blank">LinkedIn</a>
 
 - 💬 Ask me about **C# , Javascript , SQL , .Net API , .NET MVC , Razor , CSS , Bootstrap, HTML , Salesforce**
 
 - 📫 How to reach me **ayahkenawy4490@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dBO0IYUXdFQh34iP3aUH4qexQFvO3D6V/view?usp=sharing]
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dBO0IYUXdFQh34iP3aUH4qexQFvO3D6V/view?usp=sharing" target="blank" >Resume</a>
 - ⚡ Fun fact **I never give up**
 
 <h3 align="left">Connect with me:</h3>
