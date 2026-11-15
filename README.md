@@ -1,13 +1,14 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:032D60&height=200&section=header&text=Aya%20Kenawy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Salesforce%20Consultant%20%26%20Developer%20%7C%20Solution%20Architecture&descSize=18&descAlignY=60" width="100%" alt="Aya Kenawy banner"/>
+<img src="./banner.svg" width="100%" alt="Aya Kenawy banner"/>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00A1E0&center=true&vCenter=true&width=700&lines=Salesforce+Consultant+%26+Developer;Data+%26+Sharing+Architect+Certified;Integrations+%7C+Apex+%7C+LWC+%7C+CI%2FCD;Based+in+Port+Said%2C+Egypt)](https://trailblazer.me/id/ayak90)
 
 [![Email](https://img.shields.io/badge/Email-ayahkenawy4490@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayahkenawy4490@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayahkenawy90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayahkenawy90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayahkenawy90-0A66C2?style=for-the-badge)](https://linkedin.com/in/ayahkenawy90)
 [![Trailblazer](https://img.shields.io/badge/Trailblazer-ayak90-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/ayak90)
+[![X](https://img.shields.io/badge/X-@A__Kenawy90-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/A_Kenawy90)
 ![Location](https://img.shields.io/badge/Port%20Said-Egypt-032D60?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
@@ -95,25 +96,23 @@ I design **data models**, **integration architectures** (REST, GraphQL, OAuth, P
 
 ## 💼 Experience
 
-**🔹 Salesforce Developer: CX Republic** · *Oct 2024 – Jul 2026*
+**🔹 Salesforce Developer: CX Republic** · *Oct 2024 – Jul 2026*  
 Integrations, custom pricing and quoting, GitLab CI/CD pipelines, end-to-end implementations across Sales, Service, Experience, and Data Cloud, plus Agentforce.
 
-**🔹 Salesforce Consultant: Zcloud Consultancy** · *Aug 2022 – Nov 2023*
+**🔹 Salesforce Consultant: Zcloud Consultancy** · *Aug 2022 – Nov 2023*  
 15+ projects, 100+ components built, 20+ data migrations, 30+ deployments.
 
-**🔹 .NET Developer: Smart Village for IT** · *2015 – 2021*
+**🔹 .NET Developer: Smart Village for IT** · *2015 – 2021*  
 C#, ASP.NET MVC/Web Forms, REST APIs, SQL, and reporting.
 
 ---
 
-## 📊 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` below with your actual username.
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1E0&icon_color=00A1E0" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1E0" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/ayahkenawy?style=for-the-badge&logo=github&label=Followers&color=00A1E0)
+![Repos](https://img.shields.io/badge/Profile-github.com%2Fayahkenawy-032D60?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -134,9 +133,8 @@ I'm open to **Salesforce Developer, Consultant, and Solution Architect** opportu
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayahkenawy4490@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayahkenawy90)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/ayahkenawy90)
 [![Trailblazer](https://img.shields.io/badge/View%20Trailblazer%20Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/ayak90)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:032D60,100:00A1E0&height=120&section=footer" width="100%" alt="footer"/>
