@@ -1,37 +1,142 @@
-<h1 align="center">Hi 👋, I'm Aya</h1>
-<h3 align="center">A passionate .NET developer from Egypt</h3>
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:032D60&height=200&section=header&text=Aya%20Kenawy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Salesforce%20Consultant%20%26%20Developer%20%7C%20Solution%20Architecture&descSize=18&descAlignY=60" width="100%" alt="Aya Kenawy banner"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayahkenawy&label=Profile%20views&color=0e75b6&style=flat" alt="ayahkenawy" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayahkenawy" alt="ayahkenawy" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00A1E0&center=true&vCenter=true&width=700&lines=Salesforce+Consultant+%26+Developer;Data+%26+Sharing+Architect+Certified;Integrations+%7C+Apex+%7C+LWC+%7C+CI%2FCD;Based+in+Port+Said%2C+Egypt)](https://trailblazer.me/id/ayak90)
 
-- 🌱 I’m currently learning **Docker , angular**
+[![Email](https://img.shields.io/badge/Email-ayahkenawy4490@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayahkenawy4490@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayahkenawy90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayahkenawy90)
+[![Trailblazer](https://img.shields.io/badge/Trailblazer-ayak90-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/ayak90)
+![Location](https://img.shields.io/badge/Port%20Said-Egypt-032D60?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ayahkenawy" target="blank" >GitHub</a>
+</div>
 
-- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/ayahkenawy90" target="blank">LinkedIn</a>
+---
 
-- 💬 Ask me about **C# , Javascript , SQL , .Net API , .NET MVC , Razor , CSS , Bootstrap, HTML , Salesforce**
+## 👋 About Me
 
-- 📫 How to reach me **ayahkenawy4490@gmail.com**
+Salesforce Consultant and Developer with **3+ years** designing and delivering CRM solutions across **healthcare, retail, HR, and professional services**.
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dBO0IYUXdFQh34iP3aUH4qexQFvO3D6V/view?usp=sharing" target="blank" >Resume</a>
-- ⚡ Fun fact **I never give up**
+I design **data models**, **integration architectures** (REST, GraphQL, OAuth, Platform Events), and **pricing & quoting solutions**, then build and release them through **CI/CD**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/ayahkenawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayahkenawy" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/ayak90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ayak90" height="30" width="40" /></a>
-<a href="https://twitter.com/a_kenawy90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_kenawy90" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayahkenawy90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayahkenawy90" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ayahken90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayahken90" height="30" width="40" /></a>
-<a href="https://instagram.com/@ayah_enoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ayah_enoo" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ayahkenawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ayahkenawy" height="30" width="40" /></a>
+- 🏗️ Certified **Platform Data Architect** and **Sharing & Visibility Architect**
+- 🔗 Built **3 production integrations**: Shopify, Xero, Property Finder
+- 🛠️ Resolved **550+ production issues** and supported **55+ deployments**
+- 🧭 Career path: .NET Developer → Salesforce Consultant → Salesforce Developer → **Solution Architecture**
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+![Data Architect](https://img.shields.io/badge/Platform%20Data%20Architect-Jul%202026-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
+![Sharing and Visibility](https://img.shields.io/badge/Sharing%20%26%20Visibility%20Architect-Jan%202026-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
+![Admin II](https://img.shields.io/badge/Platform%20Administrator%20II-Oct%202026-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Developer I](https://img.shields.io/badge/Platform%20Developer%20I-Oct%202025-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Administrator](https://img.shields.io/badge/Platform%20Administrator-Jan%202025-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce%20Specialist-Dec%202024-7F56D9?style=for-the-badge&logo=salesforce&logoColor=white)
+![AI Associate](https://img.shields.io/badge/AI%20Associate-Nov%202024%20(Retired)-7F56D9?style=for-the-badge&logo=salesforce&logoColor=white)
+![Foundations](https://img.shields.io/badge/Platform%20Foundations-May%202023-6B7280?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Salesforce Platform
+
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL%20%7C%20SOSL-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Triggers](https://img.shields.io/badge/Triggers-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-032D60?style=flat-square&logo=salesforce&logoColor=white)
+![Service Cloud](https://img.shields.io/badge/Service%20Cloud-032D60?style=flat-square&logo=salesforce&logoColor=white)
+![Experience Cloud](https://img.shields.io/badge/Experience%20Cloud-032D60?style=flat-square&logo=salesforce&logoColor=white)
+![Data Cloud](https://img.shields.io/badge/Data%20Cloud%20(Data%20360)-032D60?style=flat-square&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-7F56D9?style=flat-square&logo=salesforce&logoColor=white)
+
+### 🔌 Architecture & Integration
+
+![REST](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Platform Events](https://img.shields.io/badge/Platform%20Events-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Queueable](https://img.shields.io/badge/Queueable%20Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Named Credentials](https://img.shields.io/badge/Named%20Credentials-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Data Migration](https://img.shields.io/badge/Data%20Migration-032D60?style=flat-square&logo=salesforce&logoColor=white)
+
+### ⚙️ DevOps, Tools & Other Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,postman,jira,js,html,css,cs,dotnet,angular,postgres,mysql" alt="tools" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+`Salesforce CLI` · `GitLab CI/CD` · `Nebula Logger` · `SQL Server` · `ASP.NET MVC` · `Web APIs` · `Crystal Reports` · `Telerik Reporting`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayahkenawy&show_icons=true&locale=en&layout=compact" alt="ayahkenawy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayahkenawy&show_icons=true&locale=en" alt="ayahkenawy" /></p>
+## 🚀 Featured Salesforce Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🛍️ **Shopify Integration** | Syncs products, variants, inventory, images, and orders | GraphQL · Webhooks · Queueable Apex |
+| 💼 **Xero Integration** | Customer and product sync with logging, field mapping, and error handling | REST API · Named Credentials |
+| 🏠 **Property Finder Integration** | Lead and property sync using scheduled jobs and external ID matching | OAuth · Scheduled Apex · External IDs |
+| 🧮 **Pricing & Quote Automation** | Pricing, rental calculations, discount logic, and PDF quotes | LWC · Apex · Visualforce PDF |
+
+---
+
+## 💼 Experience
+
+**🔹 Salesforce Developer: CX Republic** · *Oct 2024 – Jul 2026*
+Integrations, custom pricing and quoting, GitLab CI/CD pipelines, end-to-end implementations across Sales, Service, Experience, and Data Cloud, plus Agentforce.
+
+**🔹 Salesforce Consultant: Zcloud Consultancy** · *Aug 2022 – Nov 2023*
+15+ projects, 100+ components built, 20+ data migrations, 30+ deployments.
+
+**🔹 .NET Developer: Smart Village for IT** · *2015 – 2021*
+C#, ASP.NET MVC/Web Forms, REST APIs, SQL, and reporting.
+
+---
+
+## 📊 GitHub Stats
+
+> Replace `YOUR_GITHUB_USERNAME` below with your actual username.
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1E0&icon_color=00A1E0" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1E0" alt="Top languages" />
+
+</div>
+
+---
+
+## 🌐 Languages
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-success?style=flat-square)
+![English](https://img.shields.io/badge/English-B2%20Upper%20Intermediate-blue?style=flat-square)
+![German](https://img.shields.io/badge/German-A1-lightgrey?style=flat-square)
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **Salesforce Developer, Consultant, and Solution Architect** opportunities, and always happy to talk integrations, data architecture, and sharing & visibility design.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayahkenawy4490@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayahkenawy90)
+[![Trailblazer](https://img.shields.io/badge/View%20Trailblazer%20Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/ayak90)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:032D60,100:00A1E0&height=120&section=footer" width="100%" alt="footer"/>
